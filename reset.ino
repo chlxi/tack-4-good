@@ -1,3 +1,5 @@
+//pusher arm may occasionally end up in the wrong position, use this code to adjust it back 
+
 void setup() {
 
 //set channel B
